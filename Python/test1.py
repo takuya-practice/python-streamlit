@@ -5,3 +5,5 @@ print("""
 """)
 
 print('Py', 'thon', sep=' ')
+
+print('takuya')
