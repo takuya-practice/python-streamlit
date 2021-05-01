@@ -6,4 +6,4 @@ print("""
 
 print('Py', 'thon', sep=' ')
 
-print('takuya')
+print('修正しました。')
