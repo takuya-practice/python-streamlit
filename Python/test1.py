@@ -6,4 +6,6 @@ print("""
 
 print('Py', 'thon', sep=' ')
 
-print('修正しました。')
+print('test')
+
+
