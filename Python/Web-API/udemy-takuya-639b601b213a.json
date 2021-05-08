@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "udemy-takuya",
+  "private_key_id": "639b601b213a7fd53dc2909d9389dab91047871f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKTZT5LpgmDkWV\nYT9XUafdTsdXeg31pf9nGt7hDLIykjNqpYslfm5sUuf10+xoatvPFeX7BO/SqqLW\n9GNILsWITvlvLB7ZNsi+J5V/lL5bmdsym/JjobmfjUCWrPD956OVIKX3mc4L1tBK\nLwhES8Qs/E5v8IC546V/m8wTZXhS2br1SRhMJYCNpO3nUfC74ieGnjaByU+575w8\n36x3XflhlOQ0VFnM//royDcc07nW+9/FueILQ7bxP3S41y71xp6QN1wQ2btqMhS/\nKdndnBBztJHa0bISmjMMEssxynEIltbBzzd/n3OOKGuaJeGjp0eacCzjSJaLnHaZ\nIuiLiKcZAgMBAAECggEADBWJx/j2gdK66TmxRWGk220j9UR8nkNWDM33/e10T39f\nPzj+LrU8lDntOxk8fYYitRYqfVOZ2cwfhM0fNKIjj8yotjpCasPC5/yA70ARnuLT\nWHlwRRzPIX3/z/qF5wV7kU7kOX1ml7m6AtVXsVH2buDPwK+gq71Ui1ETVHmH+SMc\ntUjEdpsh7QoQm1XAYwwlIRRdPazMIM88uHo5jEsJBDkjBCFl1ExflSRbx/tSeAV3\nDBPi8YkDhRSd5/Igpc315m68/5GgNCIuTCSCrzu9BSrtamVKlRYyuTfw2njtwzgp\n+P4NGY25nr4q6AcJ/DWvYExNrt1mpg5jzidO3odlQQKBgQC8dnhOL7uqv/y5qeUG\nrmzeQrUuzgcumrxgTlvFRpWpCTmDiJcRG5n+1EBkE51ffEOg56DaRjeFPVE6Ph0+\nOWCTvi6A3r3kUSgiGp83UiegPlfdWpasRj2owvUn0Ss4Tbr8rm+aJJ52ZQJ5UZIO\nryPAnjDmEzOYuRtSPU27WdxBYQKBgQC73XimpGI2F969RP+TKdtA6uC2J+0Z3Q1G\n630j3hVF81YDaZx+XYrfbxMnwCVx6RQ51hCUc/xVBEXl9YtiuqZ0fSGGrP1qoOVE\n8aV0kIKWdX7skhTd4YR11g535KZRxSIk4oT/C6KvJkYvKjaLKB6kuh5OdhWSc1s5\n3E16/Y5ouQKBgFd1Lt0xv4g8sf5C/lp8ZV87W7NNvv18p0CV/HZvDBK2ii8lGt3A\njlU4kG0gwR5Hn2azNu00Op2lV+WMX6u5mrzVO+Vn+H1UwCgbbJmSkXsGk2XQnS1z\nJzgCyRviMIlfYQ/Tr0y8A6FzvJMqLHqOAixn/M84R/BurmQauNDhoZnhAoGAP0X7\nkdzBu0hU29h2X+F0GCxDnPZblB9wjldYIZF2BsZLTQDwFVt6H4Dwqa28rt360vP3\nR5i8/wFebXJDDPCiiY9vkEWJYLVqIstkl5rocLaIFjOpVYXUMD/1RYo8PkQwGM42\nTxRjKayxbMdB8aKEl6Sb+n8pCtdRfW5mpirqIPkCgYEAs/+14XH2wH5Z5282IQBp\n4Iogh6Q2gkLdyHTPAYi6jN05fEmvejeZWdVxC0PaBvGt37pi4PRQWgkdICySyF8F\nnHQUekE9nvJLLprcKtf1DbaCC2DY5F0ziEyL+2mEQP1Qo8ebPctalVR8aa1nZ83/\n6QUZztsolvuncwGxxuWseqA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "udemy-test@udemy-takuya.iam.gserviceaccount.com",
+  "client_id": "102171008965478205718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/udemy-test%40udemy-takuya.iam.gserviceaccount.com"
+}
